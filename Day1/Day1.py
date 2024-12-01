@@ -1,3 +1,5 @@
+# PT 1 ANSWER: total
+# PT 2 ANSWER: similarity
 def getDistance(filename: str):
     total = 0
     similarity = 0
